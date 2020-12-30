@@ -84,7 +84,7 @@ def read():
 
         # writing the data rows
         csvwriter.writerows(rows_mod)
-    subprocess.call([r'sa.bat'])
+    subprocess.call([r'commands.bat'])
     exit()
 
 mainloop()

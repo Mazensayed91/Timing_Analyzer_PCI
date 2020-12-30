@@ -1,0 +1,1 @@
+print ('ta dir init')
